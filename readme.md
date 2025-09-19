@@ -1,1 +1,2 @@
-"­Hola, mundo de Git!" 
+"Hola, mundo de Git!"
+Chau, mundo de Git!
